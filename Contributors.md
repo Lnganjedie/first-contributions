@@ -47,6 +47,7 @@ sad# Contributors
 - [eszanon](https://github.com/eszanon)
 - [TejoSaiSwaroop](https://github.com/tejosaiswaroop)
 [ronny mekin]
+[Divyansh Gajkeshwar](https://github.com/Lnganjedie/first-contributions)
 - [Kores Nkoidila](https://github.com/Nkoidila)
 - [Guru Balamurugan](https://github.com/guru-apr21)
 - [Leonardo Lopes] (https://github.com/leonardo-lopes-br)
